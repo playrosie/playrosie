@@ -10,8 +10,8 @@ Most of what we make is sold through our store, but some of it is free and open 
 
 | Script | What it does |
 |---|---|
-| [qb-pedplacer](https://github.com/playrosie/qb-pedplacer) | Place NPCs anywhere in-game with a menu. They're saved to your database, survive restarts, and can run scenarios, emotes with props, and patrol routes. |
-| [rr-bartender](https://github.com/playrosie/rr-bartender) | Walk up to a bartender and order a drink, served over the bar with animation, thirst and a buzz. Admins set it up in-game with `/bartender`. |
+| [qb-pedplacer](https://github.com/RR-Interactive/qb-pedplacer) | Place NPCs anywhere in-game with a menu. They're saved to your database, survive restarts, and can run scenarios, emotes with props, and patrol routes. |
+| [rr-bartender](https://github.com/RR-Interactive/rr-bartender) | Walk up to a bartender and order a drink, served over the bar with animation, thirst and a buzz. Admins set it up in-game with `/bartender`. |
 
 ### From the store
 
